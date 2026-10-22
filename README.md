@@ -26,7 +26,6 @@ Built for **VTU-QFF Hackathon — VTU-Qiskit Fall Fest 2026**
 - [Model Evaluation](#-model-evaluation)
 - [Dataset and Limitations](#-dataset-and-limitations)
 - [Team Members](#-team-members)
-- [Git Collaboration Workflow](#-git-collaboration-workflow)
 - [Submission Checklist](#-submission-checklist)
 - [Resources](#-resources)
 - [License](#-license)
