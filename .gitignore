@@ -55,3 +55,8 @@ Thumbs.db
 .idea/
 .vscode/
 *.swp
+
+# Trained machine-learning models
+*.joblib
+*.pkl
+*.model

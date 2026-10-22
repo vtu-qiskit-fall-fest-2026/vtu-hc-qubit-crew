@@ -19,3 +19,10 @@ scikit-learn>=1.4
 
 # Testing
 pytest>=8.0
+
+streamlit>=1.40
+
+Pillow>=10.0
+pytesseract>=0.3.13
+requests>=2.31
+beautifulsoup4>=4.12
