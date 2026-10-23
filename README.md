@@ -275,13 +275,19 @@ The `label` column contains synthetic binary labels:
 - Compare models with consistent evaluation protocols and uncertainty reporting.
 - Explore quantum-kernel performance under controlled experiments before making claims about quantum advantage.
 
+### Github Repository link
+https://github.com/vtu-qiskit-fall-fest-2026/vtu-hc-qubit-crew
+
+### Demo video link
+https://youtu.be/C6lbHiy8hJ8?si=EvetILorbOYe6AU2
+
 ## 👥 Team Members
 
 Team members should be listed with their actual names and GitHub usernames. Replace the placeholders below before submission.
 
 | # | Name | GitHub Username | Role |
 |---|---|---|---|
-| 1 | *Teeratha P Sanmane* | *Add username* | Team Lead |
+| 1 | *Teeratha P Sanmane* | *thirtha306* | Team Lead |
 | 2 | *Samruddhi G Koparde* | *SamruddhiKoparde* | Developer |
 
 **Team:** Qubit crew  
